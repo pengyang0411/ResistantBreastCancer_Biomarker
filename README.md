@@ -1,2 +1,6 @@
-# ResistantBreastCancer_Biomarker
-scRNA-seq analysis code for “FOSL1/ESR1 Signature Reveals ERK-Dependent Vulnerability in CDK4/6 Inhibitor–Resistant Breast Cancer”
+## Single-Cell RNA Sequencing Identifies Molecular Biomarkers Predicting Late Progression to CDK4/6 Inhibition in Metastatic HR+/HER2- Breast Cancer
+<img width="1139" alt="Workflow" src="https://github.com/user-attachments/assets/43dbefbe-34c0-4203-8779-c457ad61900e">
+This repository contains code for analyzing single-cell RNA-seq data, including sample preprocessing, integration, cell type annotation, and downstream analysis. It is associated with the manuscript "FOSL1/ESR1 Signature Reveals ERK-Dependent Vulnerability in CDK4/6 Inhibitor–Resistant Breast Cancer!"
+
+### Reference
+Li, M., Yang, P., Rao, X., ... & Keyomarsi, K. (2026). FOSL1/ESR1 Signature Reveals ERK-Dependent Vulnerability in CDK4/6 Inhibitor–Resistant Breast Cancer. Cancer Research.
